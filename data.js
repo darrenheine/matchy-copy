@@ -114,7 +114,7 @@ const randomAnimal = animals[randomIndex].name;
 
 friends.push(randomAnimal);
 
-animals[0]['friends'] = friends;
+animals[0]["friends"] = friends;
 
 console.log(animals);
 
